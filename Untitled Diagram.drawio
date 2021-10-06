@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2021-10-06T03:58:47.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.4.3" etag="M1hOW7gDvwk-gNNpKzZS" type="github"><diagram id="1YNtom-OreBe7_BW_NdR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-06T04:55:29.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="794nJFNTmjelZIr8L41g" version="15.4.3" type="github">
+  <diagram id="1YNtom-OreBe7_BW_NdR" name="Page-1">
+    <mxGraphModel dx="754" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="60" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-2" value="Ely&#39;s Macbook pro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="61" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-3" value="MAC:3c:22:fb:e5:91:27" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="81" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-4" value="IP: 192.168.0.205." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="101" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-5" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="170" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-6" value="macOS Big Sur" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="121" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-7" value="Brightfute Ipad pro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-10" value="MAC: E4:E4:AB:E6:6D:F6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-11" value="IP:192:168:0:249" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="200" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-13" value="IpadOS 14.7.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="220" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-14" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-16" value="Kadula MacBook Air" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-17" value="MAC: 7c:d1:c3:e1:9a:19" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="280" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-18" value="IP:192.168.0.105" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="675" y="300" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-19" value="macOS Mojave" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="320" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-20" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="835" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-22" value="MAC:9e:68:bc:54:d3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="450" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-25" value="COX ISP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="61" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-27" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-28" value="" style="image;html=1;image=img/lib/clip_art/computers/iPad_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="820" y="160" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-30" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.printer;" vertex="1" parent="1">
+          <mxGeometry x="835" y="360" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-31" value="HP Desk jet Plus 4155" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8FV0fsLBTXChA6TMXvq-32" value="IP:192.168.0.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
